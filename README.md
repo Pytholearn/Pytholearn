@@ -1,2 +1,4 @@
-# IM
-Who Am I?
+# IM HaZaRd 🖤☢️
+Python programmer
+
+

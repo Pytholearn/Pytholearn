@@ -5,13 +5,15 @@
 
 - 🌱 I’m currently learning **Web Penetration Testing**
 
-- 🔭 I’m currently working on [Free Copy](https://github.com/Pytholearn/Free-Copy)
-
 - 💬 Ask me about **Programming**
 
 - 📫 How to reach me **police123456789ilia@gmail.com**
 
 - ⚡ Fun fact **My only partner in life is my computer:)**
+  
+- ☢️ My discord server **[discord](https://discord.gg/CgmBxSNUxJ)**
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1090059985913913355)](https://discord.com/users/1090059985913913355)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

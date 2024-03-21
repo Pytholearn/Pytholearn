@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **My only partner in life is my computer:)**
   
-- ☢️ My discord server **[discord](https://discord.gg/CgmBxSNUxJ)**
+- ☢️ My discord server **[discord](https://discord.gg/YU7jYRkxwp)**
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1087093304543412476)](https://discord.com/users/1087093304543412476)
 

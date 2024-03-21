@@ -13,7 +13,7 @@
   
 - ☢️ My discord server **[discord](https://discord.gg/CgmBxSNUxJ)**
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1090059985913913355)](https://discord.com/users/1090059985913913355)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1087093304543412476)](https://discord.com/users/1087093304543412476)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

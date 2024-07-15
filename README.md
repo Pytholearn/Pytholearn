@@ -4,7 +4,10 @@
 
 
 # 💫 About Me:
-🌎 I am from Iran<br>👯 I am learning English<br>🪀 I can help you with python codes<br>⚡ My only girlfriend is my computer:)
+**🌎 I am from Iran<br>**
+**👯 I am learning English<br>**
+**🪀 I can help you with python codes<br>**
+**⚡ My only girlfriend is my computer:)**
 
 
 

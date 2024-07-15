@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HaZaRd</h1>
 <h3 align="center">A small Python programmer in the streets of his city</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pytholearn&label=Profile%20views&color=d05a0b&style=flat" alt="pytholearn" /> </p>
+
 
 - 🌱 I’m currently learning **Web Penetration Testing**
 
@@ -11,10 +11,11 @@
 
 - ⚡ Fun fact **My only partner in life is my computer:)**
   
-- ☢️ My discord server **[discord](https://discord.gg/YU7jYRkxwp)**
+
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1087093304543412476)](https://discord.com/users/1087093304543412476)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pytholearn&label=Profile%20views&color=d05a0b&style=flat" alt="pytholearn" /> </p>
+<a href="https://discord.gg/qD8SXrRJbw"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucfhrw24axi5gfa7zlve49_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucfhrw24axi5gfa7zlve49_w" height="30" width="40" /></a>
